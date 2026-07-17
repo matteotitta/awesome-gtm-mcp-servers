@@ -82,6 +82,7 @@ Everything in this category is community-built. No first-party server exists for
 - [mcp-google-ads](https://github.com/cohnen/mcp-google-ads) - The most-starred dedicated Google Ads server, for natural-language analysis of campaigns, performance, and keywords. No push since October 2025. MIT. 668 stars.
 - [meta-ads-mcp (mikusnuz)](https://github.com/mikusnuz/meta-ads-mcp) - Server for Meta Marketing API v25.0 with 135 tools for Facebook and Instagram campaigns. MIT. 58 stars.
 - [meta-ads-mcp (pipeboard-co)](https://github.com/pipeboard-co/meta-ads-mcp) - The most-starred Meta Ads option, part of a five-platform family with a hosted remote server and a free plan. Non-standard licence. 1,082 stars.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code plugin for auditing and editing Google Ads and Meta Ads, with additional SEO and GEO workflows. Its optional hosted MCP connectors provide live Google Ads, Meta Ads, and Search Console access with approval-gated writes and a change history. MIT. 3,145 stars.
 
 ## Email and Lifecycle
 
