@@ -63,6 +63,7 @@ Every entry was verified against the live GitHub API or the vendor's own docs on
 ## Analytics and Product
 
 - [amplitude/mcp-server-guide](https://github.com/amplitude/mcp-server-guide) - **Official**, but a guide rather than a server — documentation on using Amplitude's hosted MCP offering. Listed so you do not go looking for source that is not there. 45 stars.
+- [Formo MCP](https://docs.formo.so/mcp/overview) - **Official.** Hosted, read-only product and onchain analytics for Web3 teams, covering KPIs, events, funnels, retention, lifecycle, revenue, users, and enriched wallet profiles. Uses a Streamable HTTP endpoint with OAuth 2.1 or project-scoped workspace API keys.
 - [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) - **Official.** Google's GA4 server and the first-party path for Analytics data. Apache-2.0. 2,687 stars.
 - [mcp-gsc](https://github.com/AminForou/mcp-gsc) - The most-starred Search Console server and the de-facto standard, since Google publishes none. MIT. 1,174 stars.
 - [mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) - A lighter, widely-used Search Console alternative. No licence declared. 248 stars.
