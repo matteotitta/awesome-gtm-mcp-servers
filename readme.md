@@ -1,3 +1,5 @@
+![awesome-gtm-mcp-servers cover](.github/cover.png)
+
 # Awesome GTM MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Model Context Protocol servers that connect an AI agent to the go-to-market stack: CRM, enrichment, SEO, ads, analytics, and lifecycle.
