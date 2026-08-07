@@ -105,6 +105,7 @@ Everything in this category is community-built. No first-party server exists for
 - [slack-mcp-server (korotovsky)](https://github.com/korotovsky/slack-mcp-server) - The most-starred Slack server, with Apps support, GovSlack, DMs, and smart history fetching, needing no permission requests. MIT. 1,731 stars.
 - [slack-mcp-server (ubie-oss)](https://github.com/ubie-oss/slack-mcp-server) - The most permissively-licensed maintained Slack option. Apache-2.0. 110 stars.
 - [slack-mcp-server (zencoderai)](https://github.com/zencoderai/slack-mcp-server) - The server the official MCP servers readme points to as successor to the archived reference implementation. Low stars and stale since July 2025 despite that endorsement. 72 stars.
+- [Autoposting](https://github.com/Autoposting-ai/autoposting-mcp) - Remote MCP server to schedule, generate and publish social posts to X, LinkedIn, Instagram, Threads and YouTube
 
 ## Registries
 
