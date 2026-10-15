@@ -90,6 +90,7 @@ Everything in this category is community-built. No first-party server exists for
 - [instantly-cli](https://github.com/bcharleson/instantly-cli) - CLI and MCP server for the Instantly cold-email platform. The most-starred Instantly option; no official server exists. 29 stars.
 - [kit-mcp](https://github.com/dancumberland/kit-mcp) - Kit (formerly ConvertKit) server claiming full v4 API coverage across 13 tools, with engagement analytics and broadcast click tracking. Kit also runs a hosted server. MIT. 2 stars.
 - [resend/resend-mcp](https://github.com/resend/resend-mcp) - **Official.** Sending email and interacting with the Resend API. Note the rename: `resend/mcp-send-email` redirects here. MIT. 553 stars.
+- [Revnu MCP Server](https://revnu.com/mcp) - **Official**, hosted at `revnu.com/api/mcp` over Streamable HTTP with OAuth. Connects an agent to Revnu, an AI growth agent that finds buyers and runs cold email, LinkedIn outreach, and ads on Google, Meta, LinkedIn, Reddit, X, Microsoft, and TikTok. The founder approves what goes out. Listed in the official MCP registry as `com.revnu/revnu`.
 - [smartlead-mcp-server (jonathan-politzki)](https://github.com/jonathan-politzki/smartlead-mcp-server) - Local-deployment Smartlead server. The most viable Smartlead option given the archive below, but stale since July 2025. 17 stars.
 - [smartlead-mcp-server (LeadMagic)](https://github.com/LeadMagic/smartlead-mcp-server) - **Archived.** Formerly the most complete Smartlead server with 113 tools. Do not present as maintained. MIT. 22 stars.
 
