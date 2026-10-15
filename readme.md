@@ -49,6 +49,7 @@ Every entry was verified against the live GitHub API or the vendor's own docs on
 - [apollo-io-mcp-server](https://github.com/lkm1developer/apollo-io-mcp-server) - TypeScript community server wrapping the Apollo.io API. Stale since April 2025; prefer the official hosted server. MIT. 40 stars.
 - [clay-mcp](https://github.com/mesh/clay-mcp) - The only Clay server found. Clay publishes no official MCP server and `mcp.clay.com` does not resolve, so this is the whole category. No licence declared. 33 stars.
 - [peopledatalabs-mcp](https://github.com/phxdev1/peopledatalabs-mcp) - Person and company enrichment through People Data Labs. Very low adoption, stale since April 2025, and the only PDL option found. Apache-2.0. 2 stars.
+- [Scalelist MCP Server](https://github.com/Scalelist-Dev/scalelist-mcp-server) - **Official**, hosted at `mcp.scalelist.com/mcp`. Finds B2B people by title, seniority, industry, location and company size, then returns verified work emails and mobile numbers, one at a time or 100 per bulk job. Audience counts are free, so an agent can size a list before spending, and credits are only charged when something is found. OAuth with dynamic client registration. Official MCP Registry id `com.scalelist/mcp`.
 
 ## SEO and Content
 
