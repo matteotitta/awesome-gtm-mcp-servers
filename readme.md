@@ -48,6 +48,7 @@ Every entry was verified against the live GitHub API or the vendor's own docs on
 - [apollo-io-mcp](https://github.com/thevgergroup/apollo-io-mcp) - The most current community Apollo.io server. MIT. 19 stars.
 - [apollo-io-mcp-server](https://github.com/lkm1developer/apollo-io-mcp-server) - TypeScript community server wrapping the Apollo.io API. Stale since April 2025; prefer the official hosted server. MIT. 40 stars.
 - [clay-mcp](https://github.com/mesh/clay-mcp) - The only Clay server found. Clay publishes no official MCP server and `mcp.clay.com` does not resolve, so this is the whole category. No licence declared. 33 stars.
+- [Makelead MCP Server](https://makelead.io/mcp) - **Official**, hosted at `makelead.io/api/mcp`. Connects an agent to a Makelead LinkedIn and X prospecting account: import prospects from LinkedIn searches, post commenters and likers or X searches, search saved prospects, read campaign results, and create a campaign behind a two-step confirmation token. Also returns the writing brief and saves LinkedIn or X post drafts without publishing anything. OAuth 2.1 with dynamic client registration, or a Makelead API key.
 - [peopledatalabs-mcp](https://github.com/phxdev1/peopledatalabs-mcp) - Person and company enrichment through People Data Labs. Very low adoption, stale since April 2025, and the only PDL option found. Apache-2.0. 2 stars.
 
 ## SEO and Content
