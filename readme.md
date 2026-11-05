@@ -61,6 +61,7 @@ Every entry was verified against the live GitHub API or the vendor's own docs on
 - [semrush-mcp](https://github.com/mrkooblu/semrush-mcp) - Access to Semrush API data. Semrush publishes no official server; this is the most-starred community option. MIT. 37 stars.
 - [spider-rs/spider](https://github.com/spider-rs/spider) - The Spider Rust crawler itself, not an MCP server. Listed as the parent project behind the Spider Cloud server below. MIT. 2,604 stars.
 - [spider-cloud-mcp-server](https://github.com/spider-rs/spider-cloud-mcp-server) - **Official.** Server for the Spider Cloud crawling API. Very low stars but first-party. `spider-rs/spider-mcp` redirects here. MIT. 2 stars.
+- [Vaneform MCP](https://github.com/jiangqizheng/vaneform-mcp) - **Official.** Hosted at `vaneform.com/mcp`. Free website traffic lookups for agents: estimated monthly visits, traffic sources, top countries, and domain compares. API key auth. 2 stars.
 
 ## Analytics and Product
 
