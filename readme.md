@@ -253,6 +253,7 @@ Sequencers, dialers, sales engagement, and conversation intelligence.
 - [Templafy MCP](https://www.templafy.com/home/platform/mcp/) - **Official.** Large companies use it to keep Word and PowerPoint documents on brand with shared templates.
 - [Typeface MCP](https://www.typeface.ai/mcp) - **Official.** Creates marketing copy and images that follow a large company's brand style and assets.
 - [Upfluence MCP](https://www.upfluence.com/platform/upfluence-mcp) - **Official.** Searches millions of creators, runs influencer campaigns, pays creators, and tracks the sales they drive.
+- [Vaneform MCP](https://github.com/jiangqizheng/vaneform-mcp) - **Official.** Hosted at `vaneform.com/mcp`. Free website traffic lookups for agents: estimated monthly visits, traffic sources, top countries, and domain compares. API key auth. 2 stars.
 - [Writesonic MCP](https://writesonic.com/mcp) - **Official.** Shows how often AI chatbots cite your brand, then sends agents to fill content gaps.
 
 ## Website and Inbound
